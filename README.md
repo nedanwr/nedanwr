@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-Hey! My name is Naveed. I am a web developer who loves experimenting with different technologies every now and then and sometimes those projects are shelved and collects dust on my profile
+Hey! My name is Naveed. I am a self-taught Full Stack Developer focusing on [`TypeScript`] (and also JavaScript), [`Next.js`] (with TSX, of course) and a bit of [`Python`] 😄
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedanwr&count_private=true&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedanwr&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyshelby9121&theme=tokyonight&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedanwr&theme=tokyonight&langs_count=4&layout=compact)
+
+> Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
+
+<!----------------- LINKS --------------->
+[`Typescript`]:       https://www.typescriptlang.org/
+[`Next.js`]:          https://nextjs.org/
+[`Python`]:           https://www.python.org/
