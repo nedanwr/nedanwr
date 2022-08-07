@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! My name is Naveed. I am a self-taught Full Stack Developer focusing mainly on [`TypeScript`] and [`Next.js`] (with TSX, of course) 😄
+Hey! My name is Naveed. I am a self-taught Back-End Developer focusing mainly on [`TypeScript`] 😄
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedanwr&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
 
@@ -10,4 +10,3 @@ Hey! My name is Naveed. I am a self-taught Full Stack Developer focusing mainly 
 
 <!----------------- LINKS --------------->
 [`Typescript`]:       https://www.typescriptlang.org/
-[`Next.js`]:          https://nextjs.org/
